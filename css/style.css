@@ -1,0 +1,54 @@
+.about {
+    background-color: #f4f4f4;
+    padding: 50px 0px 0px 0px;
+}
+
+form {
+    min-width: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.heading {
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+    max-height:100vh;
+    background-attachment: fixed;
+}
+
+.hero-text {
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.social {
+    background-color: #f4f4f4;
+}
+
+.reach {
+    background-color: #f4f4f4;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+}
+
+section {
+    margin: 0px 0px 50px 0px;
+}
+
+.contact {
+    margin-bottom: 0px;
+}
